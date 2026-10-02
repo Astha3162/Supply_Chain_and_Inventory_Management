@@ -1,0 +1,51 @@
+supplier_id,supplier_name,product_id,lead_time_days,order_frequency,order_frequency_per_week,cluster,cluster_profile
+SUP001,Murray-Ramirez,P002,9,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP002,"Thomas, Meyer and Campbell",P005,9,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP003,Acosta Inc,P005,4,Monthly,0.25,0,Moderate Supplier Pattern
+SUP004,"Evans, Brown and Turner",P002,8,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP005,"Johnson, Wise and Barr",P003,6,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP006,"Hood, Barrera and Woodard",P001,6,Monthly,0.25,0,Moderate Supplier Pattern
+SUP007,"Meyers, Miller and Young",P002,9,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP008,Edwards-Barnes,P005,8,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP009,Baker LLC,P001,4,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP010,Wright PLC,P003,9,Monthly,0.25,2,Moderate Supplier Pattern
+SUP011,"Peterson, Thomas and Page",P004,4,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP012,"Wright, White and Gonzalez",P004,6,Monthly,0.25,0,Moderate Supplier Pattern
+SUP013,"Norman, Welch and Foster",P004,7,Biweekly,0.5,2,Moderate Supplier Pattern
+SUP014,Brown LLC,P001,7,Biweekly,0.5,2,Moderate Supplier Pattern
+SUP015,Watson Ltd,P002,4,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP016,Johnson Group,P002,8,Biweekly,0.5,2,Moderate Supplier Pattern
+SUP017,Ayers Ltd,P005,7,Monthly,0.25,2,Moderate Supplier Pattern
+SUP018,Wilson Inc,P005,5,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP019,Bowers and Sons,P003,4,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP020,"Porter, Daniels and Stewart",P003,6,Monthly,0.25,0,Moderate Supplier Pattern
+SUP021,Robertson LLC,P001,4,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP022,"Alvarado, Ramirez and Taylor",P001,4,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP023,Smith and Sons,P002,6,Monthly,0.25,0,Moderate Supplier Pattern
+SUP024,Thompson-Hebert,P001,4,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP025,Rose Inc,P005,5,Monthly,0.25,0,Moderate Supplier Pattern
+SUP026,Roberts-Williams,P005,6,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP027,Woods PLC,P002,5,Monthly,0.25,0,Moderate Supplier Pattern
+SUP028,Taylor Ltd,P002,3,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP029,"Duncan, Davidson and Martin",P005,9,Monthly,0.25,2,Moderate Supplier Pattern
+SUP030,"Baker, Dean and Jensen",P002,5,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP031,"Harmon, Davis and Harper",P002,5,Monthly,0.25,0,Moderate Supplier Pattern
+SUP032,Ferguson Group,P005,3,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP033,Murphy-Wise,P001,9,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP034,"James, Mullen and Cooper",P001,9,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP035,Smith PLC,P001,9,Monthly,0.25,2,Moderate Supplier Pattern
+SUP036,"Powers, Olson and Sanchez",P004,9,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP037,Kerr-Palmer,P003,8,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP038,"Johnson, Turner and Carpenter",P001,8,Biweekly,0.5,2,Moderate Supplier Pattern
+SUP039,Ortega-Manning,P005,3,Monthly,0.25,0,Moderate Supplier Pattern
+SUP040,Wilson-Stanley,P005,4,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP041,Brown Ltd,P003,3,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP042,"Cross, Scott and Avery",P004,6,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP043,Fox Group,P002,9,Biweekly,0.5,2,Moderate Supplier Pattern
+SUP044,Peters-Salas,P004,4,Monthly,0.25,0,Moderate Supplier Pattern
+SUP045,Castro-Townsend,P001,7,Weekly,1.0,1,Short Lead Time / Frequent Orders
+SUP046,"Harris, Patterson and Harris",P002,9,Biweekly,0.5,2,Moderate Supplier Pattern
+SUP047,Nunez-May,P001,4,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP048,Williams Inc,P003,4,Biweekly,0.5,0,Moderate Supplier Pattern
+SUP049,Obrien-Jones,P005,9,Biweekly,0.5,2,Moderate Supplier Pattern
+SUP050,"Sosa, Cain and Cummings",P003,8,Weekly,1.0,1,Short Lead Time / Frequent Orders
